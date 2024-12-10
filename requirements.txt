@@ -1,0 +1,9 @@
+streamlit==1.24.1            # For building the web application
+PyPDF2==3.0.0                # For parsing PDF resumes
+python-docx==0.8.11          # For parsing Word documents
+pandas==2.1.1                # For data handling and manipulation
+numpy==1.26.0                # For data processing
+python-dotenv==1.0.0         # For managing environment variables
+openai==0.28.0               # If you're using OpenAI for AI-enhanced parsing
+requests==2.31.0             # For handling HTTP requests (if needed)
+google-generativeai
